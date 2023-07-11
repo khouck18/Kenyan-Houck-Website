@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Kenyan-Houck-Website/static/css/main.073c9b0a.css",
+    "main.js": "/Kenyan-Houck-Website/static/js/main.961c52df.js",
+    "static/js/787.494eec44.chunk.js": "/Kenyan-Houck-Website/static/js/787.494eec44.chunk.js",
+    "static/media/logo.svg": "/Kenyan-Houck-Website/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Kenyan-Houck-Website/index.html",
+    "main.073c9b0a.css.map": "/Kenyan-Houck-Website/static/css/main.073c9b0a.css.map",
+    "main.961c52df.js.map": "/Kenyan-Houck-Website/static/js/main.961c52df.js.map",
+    "787.494eec44.chunk.js.map": "/Kenyan-Houck-Website/static/js/787.494eec44.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.961c52df.js"
+  ]
+}
