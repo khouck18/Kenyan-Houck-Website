@@ -21,7 +21,7 @@ const Home = () => {
                     <Typography variant="h2" sx={{ ml: "25%", mt: "20%", color: "white"}}>Hello, I'm Kenyan Houck</Typography>
                 </Grid>
                 <Grid item xs={4}>
-                 <Box sx={{ width: "300", height: "300", transform: "translateX(-25%)", mt: "20%"}}>
+                 <Box sx={{ width: "300", height: "300", transform: "translateX(-15%)", mt: "20%"}}>
                     <img src={Headshot} alt="Headshot" style={{width: "100%", height: "100%", objectFit: "cover", borderRadius: "25px"}} />
                  </Box>
                 </Grid>
@@ -65,7 +65,7 @@ const Home = () => {
                     <Typography variant="h6" sx={{ textAlign: "center", color: "white", mx: "20%"}}>Hello, I'm Kenyan Houck, a passionate cloud software engineer specializing in React and JavaScript. Currently, I am proud to be a part of Intel, where I contribute to the development of a cutting-edge cloud application. My expertise lies in leveraging my front end and AWS knowledge to architect robust and secure cloud applications. Sample projects provided below.</Typography>
                 </Grid>
                 <Grid item xs={4}>
-                    <Card variant="outlined" sx={{ m: 5, backgroundColor: "#28282B", height: "350px"}}>
+                    <Card variant="outlined" sx={{ m: 5, backgroundColor: "#28282B", height: "315px"}}>
                     <Typography variant="h5" sx={{ textAlign: "center", marginTop: "1%", color: "white" }}>Computer Vision Hand Tracking</Typography>
                         <video width="100%" controls> 
                             <source src={HandTracking} type="video/mp4" />
@@ -73,7 +73,7 @@ const Home = () => {
                     </Card>
                 </Grid>
                 <Grid item xs={4}>
-                    <Card variant="outlined" sx={{ m: 5, backgroundColor: "#28282B", height: "350px"}}>
+                    <Card variant="outlined" sx={{ m: 5, backgroundColor: "#28282B", height: "315px"}}>
                     <Typography variant="h5" sx={{ textAlign: "center", marginTop: "1%", color: "white" }}>Mock Zootopia Themed Instagram</Typography>
                         <video width="100%" controls> 
                             <source src={InstagramDemo} type="video/mp4" />
@@ -81,7 +81,7 @@ const Home = () => {
                     </Card>
                 </Grid>
                 <Grid item xs={4}>
-                    <Card variant="outlined" sx={{ m: 5, backgroundColor: "#28282B", height: "350px"}}>
+                    <Card variant="outlined" sx={{ m: 5, backgroundColor: "#28282B", height: "315px"}}>
                     <Typography variant="h5" sx={{ textAlign: "center", marginTop: "1%", color: "white" }}>Shopify App Demo</Typography>
                         <video width="100%" controls> 
                             <source src={ShopifyDemo} type="video/mp4" />
